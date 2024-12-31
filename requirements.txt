@@ -4,3 +4,4 @@ seaborn
 dvc
 scipy
 missingno
+sklearn
